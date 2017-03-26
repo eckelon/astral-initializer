@@ -1,0 +1,8 @@
+{
+  "name": "fountain-inject",
+  "version": "0.0.1",
+  "dependencies": {
+    "astral": "eckelon/astral#^0.2.1"
+  },
+  "devDependencies": {}
+}
